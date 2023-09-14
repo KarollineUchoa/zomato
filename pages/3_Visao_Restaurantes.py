@@ -10,7 +10,7 @@ from PIL import Image
 st.set_page_config(page_title='Visão Restaurantes', page_icon='🍴', layout='wide')
 
 #import arquivos csv
-df = pd.read_csv('../dataset/zomato.csv')
+df = pd.read_csv('dataset/zomato.csv')
 
 #cópia de dataframe
 df1 = df.copy()
