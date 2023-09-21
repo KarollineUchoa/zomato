@@ -76,7 +76,7 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias e ferramentas:
 - Banco de Dados: Kaggle (Zomato Restaurants)
 
 <img loading="lazy" src="https://img.shields.io/badge/Python-4B8BBE">
-<img loading="lazy" src="https://img.shields.io/badge/Python-4B8BBE?style=for-the-badge&logoColor=FFD43B">
+<img loading="lazy" src="https://img.shields.io/badge/Python-4B8BBE?style=for-the-badge&logoColor=yellow">
           
 
 ## Estratégia da Solução
