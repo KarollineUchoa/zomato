@@ -71,8 +71,13 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias e ferramentas:
 
 - Linguagem de Programação:
   Python
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />
+ <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />](https://img.shields.io/badge/any_text-you_like-blue)
+<img loading="lazy" src="https://img.shields.io/badge/Python-RB8BBE">
+
 - Bibliotecas de Análise de Dados: pandas, numpy, inflection, plotly, requests e folium
+
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" width="40" height="40"/>
+          
 - Ferramenta de Desenvolvimento de Dashboards: Streamlit
 - Plataforma de Hospedagem em Nuvem: GitHub
 - Banco de Dados: Kaggle (Zomato Restaurants)
