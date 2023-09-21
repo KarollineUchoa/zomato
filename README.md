@@ -69,7 +69,7 @@ A Zomato é um marketplace de restaurantes, cujo objetivo principal é facilitar
 
 Este projeto foi desenvolvido utilizando as seguintes tecnologias e ferramentas:
 
-- Linguagem de Programação: Python <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+- Linguagem de Programação: Python <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 - Bibliotecas de Análise de Dados: pandas, numpy, inflection, plotly, requests e folium
 - Ferramenta de Desenvolvimento de Dashboards: Streamlit
 - Plataforma de Hospedagem em Nuvem: GitHub
