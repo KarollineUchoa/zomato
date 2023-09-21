@@ -75,10 +75,8 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias e ferramentas:
 - Plataforma de Hospedagem em Nuvem: GitHub
 - Banco de Dados: Kaggle (Zomato Restaurants)
 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50" height="50"/>          
-
-<img loading="lazy" src="https://img.shields.io/badge/Python-4B8BBE">
-<img loading="lazy" src="https://img.shields.io/badge/Python-4B8BBE?style=for-the-badge&logoColor=yellow">
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50" height="50"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="50" height="50"/>
+          
           
 
 ## Estratégia da Solução
