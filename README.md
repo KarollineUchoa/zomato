@@ -69,15 +69,18 @@ A Zomato é um marketplace de restaurantes, cujo objetivo principal é facilitar
 
 Este projeto foi desenvolvido utilizando as seguintes tecnologias e ferramentas:
 
-- Linguagem de Programação: <img loading="lazy" src="https://img.shields.io/badge/Python-4B8BBE">
-
-- Bibliotecas de Análise de Dados: pandas, numpy, inflection, plotly, requests e folium
-
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" width="40" height="40"/>
-          
+- Linguagem de Programação: Phyton
+- Bibliotecas de Análise de Dados: pandas, numpy, inflection, plotly, requests e folium          
 - Ferramenta de Desenvolvimento de Dashboards: Streamlit
 - Plataforma de Hospedagem em Nuvem: GitHub
 - Banco de Dados: Kaggle (Zomato Restaurants)
+
+<img loading="lazy" src="https://img.shields.io/badge/Python-4B8BBE">
+![Badge](https://img.shields.io/badge/SeuTexto-Aqui-4B8BBE?style=for-the-badge&labelColor=4B8BBE&color=FFD43B)
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />    
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
+          
 
 ## Estratégia da Solução
 
