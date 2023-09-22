@@ -75,14 +75,12 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias e ferramentas:
 - Plataforma de Hospedagem em Nuvem: GitHub
 - Banco de Dados: Kaggle (Zomato Restaurants)
 
-<div style="display: inline">
-  
-</div>
-
-[![My Skills](https://skillicons.dev/icons?i=py,github)](https://skillicons.dev)
 <p align="center">
-  <img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/><img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/><img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"/><img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/><img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original-wordmark.svg"/>
+  <img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/><img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/><img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"/><img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/><img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original-wordmark.svg"/><img width="60" height="60" src="https://iconscout.com/icons/github"/>
 <p/>
+
+
+  
 ## Estratégia da Solução
 
 O painel estratégico foi desenvolvido usando métricas que refletem as três principais visões do modelo de negócio da empresa:
