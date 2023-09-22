@@ -65,7 +65,7 @@ A Zomato é um marketplace de restaurantes, cujo objetivo principal é facilitar
 - O modelo de negócio adotado é o de um marketplace.
 - As três principais visões do negócio são: Visão Países, Visão Cidades, Visão Restaurantes e Visão Culinárias.
 
-## Tecnologias Utilizadas
+💻 ## Tecnologias Utilizadas
 
 Este projeto foi desenvolvido utilizando as seguintes tecnologias e ferramentas:
 
