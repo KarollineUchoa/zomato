@@ -83,7 +83,7 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias e ferramentas:
   <img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original-wordmark.svg"/>
 </div>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,github)](https://skillicons.dev)
 
 ## Estratégia da Solução
 
