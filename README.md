@@ -80,7 +80,7 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias e ferramentas:
   <img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/>
   <img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"/>
   <img width="150" src="plotly.png">
-  <img width="90" src="folium.png">
+  <img width="110" src="folium.png">
   <img width="60" height="60" src="github.png">
   <img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original-wordmark.svg"/>
 <p/>
