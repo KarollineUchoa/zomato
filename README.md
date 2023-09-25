@@ -117,7 +117,7 @@ Cada visão é representada por um conjunto específico de métricas, fornecendo
 
 ## ✅ Produto Final do Projeto
 
-Desenvolvemos um painel online hospedado na nuvem, acessível a partir de qualquer dispositivo conectado à internet. Você pode acessar o painel através deste link: [clique aqui para ver o resultado](https://zomato.streamlit.app/)
+Desenvolvemos um painel online hospedado na nuvem, acessível a partir de qualquer dispositivo conectado à internet. Você pode acessar o painel através deste link:  <a href="https://zomato.streamlit.app/" target="_blank">Clique para ver o resultado</a>
 
 ## 📊 Conclusão
 
