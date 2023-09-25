@@ -77,26 +77,31 @@ A Zomato é um marketplace de restaurantes, cujo objetivo principal é facilitar
 - O modelo de negócio adotado é o de um marketplace.
 - As três principais visões do negócio são: Visão Países, Visão Cidades, Visão Restaurantes e Visão Culinárias.
 
-## 💻 Tecnologias Utilizadas
+## 💻 Tecnologias e Ferramentas Utilizadas
 
 Este projeto foi desenvolvido utilizando as seguintes tecnologias e ferramentas:
 
 - Linguagem de Programação: Python
 - Bibliotecas de Análise de Dados: pandas, numpy, plotly e folium
 - Ferramenta de Desenvolvimento de Dashboards: Streamlit
-- Plataforma de Hospedagem em Nuvem: GitHub
+- Plataforma de Hospedagem em Nuvem: GitHub e Streamlit Cloud
 - Banco de Dados: Kaggle (Zomato Restaurants)
+- Outras ferramentas: Jupyter Lab e Terminal
 
-<p align="center">
+<div align="center">
   <img width="60" height="60" src="img_readme/python.png">
   <img width="60" height="60" src="img_readme/pandas.png">
   <img width="60" height="60" src="img_readme/numpy.png">
   <img width="60" height="60" src="img_readme/plotly.png">
   <img width="60" height="60" src="img_readme/folium.png">
+</div>
+
+<div align="center">
   <img width="60" height="60" src="img_readme/streamlit.png">
   <img width="60" height="60" src="img_readme/github.png">
   <img width="60" height="60" src="img_readme/kaggle.png">
-<p/>
+  <img width="60" height="60" src="img_readme/jupyterlab.png">
+</div>
   
 ## ♟️ Estratégia da Solução
 
@@ -117,7 +122,7 @@ Cada visão é representada por um conjunto específico de métricas, fornecendo
 
 ## ✅ Produto Final do Projeto
 
-Desenvolvemos um painel online hospedado na nuvem, acessível a partir de qualquer dispositivo conectado à internet. Você pode acessar o painel através deste link:  <a href="https://zomato.streamlit.app/" target="_blank">Clique para ver o resultado</a>
+Desenvolvemos um painel online hospedado na nuvem, acessível a partir de qualquer dispositivo conectado à internet. Você pode acessar o painel através deste link: <a href="https://zomato.streamlit.app/" target="_blank">Clique para ver o resultado</a>
 
 ## 📊 Conclusão
 
