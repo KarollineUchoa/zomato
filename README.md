@@ -1,10 +1,10 @@
 # Zomato
 
-## Problema de Negócio
+## 🔎 Problema de Negócio
 
 A Zomato é um marketplace de restaurantes, cujo objetivo principal é facilitar o encontro e as negociações entre clientes e restaurantes. Os restaurantes registram suas informações na plataforma da Zomato, incluindo endereço, tipo de culinária, disponibilidade de reservas, serviço de entrega e avaliações dos serviços e produtos. Para melhor compreender o negócio e tomar decisões estratégicas mais informadas, é crucial realizar uma análise aprofundada dos dados da empresa e criar dashboards que respondam às seguintes perguntas:
 
-### Visão Geral
+### 🌎 Visão Geral
 
 - Quantos restaurantes únicos estão registrados?
 - Quantos países únicos estão registrados?
@@ -12,7 +12,9 @@ A Zomato é um marketplace de restaurantes, cujo objetivo principal é facilitar
 - Qual é o total de avaliações feitas?
 - Qual é o total de tipos de culinária registrados?
 
-### Visão Países
+<img src="img_readme/visao_geral.jpeg">
+
+### 📍 Visão Países
 
 - Quantas cidades únicas estão registradas por país?
 - Quantos restaurantes únicos estão registrados por país?
@@ -28,7 +30,9 @@ A Zomato é um marketplace de restaurantes, cujo objetivo principal é facilitar
 - Quais países possuem os pratos mais baratos em Reais?
 - Quais tipos de preço têm a maior quantidade de restaurantes cadastrados por país?
 
-### Visão Cidades
+<img src="img_readme/visao_paises.jpeg">
+
+### 🏙️ Visão Cidades
 
 - Quais cidades possuem mais restaurantes cadastrados?
 - Quais cidades possuem menos restaurantes cadastrados?
@@ -41,7 +45,9 @@ A Zomato é um marketplace de restaurantes, cujo objetivo principal é facilitar
 - Quais cidades têm mais restaurantes que fazem entregas?
 - Quais cidades têm mais restaurantes que aceitam pedidos online?
 
-### Visão Restaurantes
+<img src="img_readme/visao_cidades.jpeg">
+
+### 🍴 Visão Restaurantes
 
 - Qual restaurante possui a maior nota? Em qual país está localizado?
 - Qual restaurante possui a menor nota? Em qual país está localizado?
@@ -53,7 +59,10 @@ A Zomato é um marketplace de restaurantes, cujo objetivo principal é facilitar
 - Quais são os restaurantes com maior valor de prato para 2?
 - Quais são os restaurantes com maior valor de prato para 2 em Reais?
 
-### Visão Culinárias
+<img src="img_readme/visao_restaurantes.jpeg">
+
+### 🍝 Visão Culinárias
+
 - Entre os restaurantes com as maiores notas, quais são as culinárias e onde estão localizados?
 - Quais são as culinárias com as maiores médias de notas?
 - Quais são as culinárias com as menores médias de notas?
@@ -61,7 +70,10 @@ A Zomato é um marketplace de restaurantes, cujo objetivo principal é facilitar
 - Quais são as culinárias com os maiores valores médios de prato para 2 em Reais?
 - Quais culinárias possuem mais restaurantes que aceitam pedidos online e fazem entregas?
 
-## Premissas do Negócio
+<img src="img_readme/visao_culinarias.jpeg">
+
+## ❗ Premissas do Negócio
+
 - O modelo de negócio adotado é o de um marketplace.
 - As três principais visões do negócio são: Visão Países, Visão Cidades, Visão Restaurantes e Visão Culinárias.
 
@@ -70,22 +82,23 @@ A Zomato é um marketplace de restaurantes, cujo objetivo principal é facilitar
 Este projeto foi desenvolvido utilizando as seguintes tecnologias e ferramentas:
 
 - Linguagem de Programação: Phyton
-- Bibliotecas de Análise de Dados: pandas, numpy, inflection, plotly, requests e folium          
+- Bibliotecas de Análise de Dados: pandas, numpy, plotly e folium
 - Ferramenta de Desenvolvimento de Dashboards: Streamlit
 - Plataforma de Hospedagem em Nuvem: GitHub
 - Banco de Dados: Kaggle (Zomato Restaurants)
 
 <p align="center">
-  <img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-  <img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/>
-  <img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"/>
-  <img width="150" src="plotly.png">
-  <img width="110" src="folium.png">
-  <img width="60" height="60" src="github.png">
-  <img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original-wordmark.svg"/>
+  <img width="60" height="60" src="img_readme/python.png">
+  <img width="60" height="60" src="img_readme/pandas.png">
+  <img width="60" height="60" src="img_readme/numpy.png">
+  <img width="60" height="60" src="img_readme/plotly.png">
+  <img width="60" height="60" src="img_readme/folium.png">
+  <img width="60" height="60" src="img_readme/streamlit.png">
+  <img width="60" height="60" src="img_readme/github.png">
+  <img width="60" height="60" src="img_readme/kaggle.png">
 <p/>
   
-## Estratégia da Solução
+## ♟️ Estratégia da Solução
 
 O painel estratégico foi desenvolvido usando métricas que refletem as três principais visões do modelo de negócio da empresa:
 
@@ -96,24 +109,32 @@ O painel estratégico foi desenvolvido usando métricas que refletem as três pr
 
 Cada visão é representada por um conjunto específico de métricas, fornecendo insights valiosos para a tomada de decisões estratégicas.
 
-## Top 3 Insights de Dados
+## 💡 Top 3 Insights de Dados
 
 1. A Índia possui o maior número de restaurantes cadastrados, mas suas avaliações têm notas próximas às do Brasil, que possui menos restaurantes registrados.
 2. Apesar do grande número de restaurantes na Índia, a Indonésia possui um número significativamente maior de avaliações na plataforma.
 3. A culinária indiana não é a mais popular, apesar da Índia ter um grande número de restaurantes e cidades cadastrados na plataforma.
 
-## Produto Final do Projeto
+## ✅ Produto Final do Projeto
 
-Desenvolvemos um painel online hospedado na nuvem, acessível a partir de qualquer dispositivo conectado à internet. Você pode acessar o painel através deste link: [Link do Painel](https://zomato.streamlit.app/)
+Desenvolvemos um painel online hospedado na nuvem, acessível a partir de qualquer dispositivo conectado à internet. Você pode acessar o painel através deste link: [clique aqui para ver o resultado](https://zomato.streamlit.app/)
 
-## Conclusão
+## 📊 Conclusão
 
 O objetivo deste projeto é criar um conjunto de gráficos e tabelas que apresentem métricas de forma eficaz para o CEO e outros interessados. As análises fornecem insights cruciais para a tomada de decisões estratégicas.
 
-## Próximos Passos
+## ⏭️ Próximos Passos
 
 1. Refinar o conjunto de métricas.
 2. Adicionar filtros personalizados.
 3. Incorporar novas visões de negócio.
 4. Explorar a possibilidade de visualização em outras plataformas.
 
+## Contatos:
+
+<div align="center">
+<a href="https://www.instagram.com/karollineuchoa/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://wa.me/5521965301994" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+<a href = "mailto:karolline.uchoa@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/karolline-uch%C3%B4a-223222160/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
