@@ -81,7 +81,7 @@ A Zomato é um marketplace de restaurantes, cujo objetivo principal é facilitar
 
 Este projeto foi desenvolvido utilizando as seguintes tecnologias e ferramentas:
 
-- Linguagem de Programação: Phyton
+- Linguagem de Programação: Python
 - Bibliotecas de Análise de Dados: pandas, numpy, plotly e folium
 - Ferramenta de Desenvolvimento de Dashboards: Streamlit
 - Plataforma de Hospedagem em Nuvem: GitHub
@@ -130,7 +130,7 @@ O objetivo deste projeto é criar um conjunto de gráficos e tabelas que apresen
 3. Incorporar novas visões de negócio.
 4. Explorar a possibilidade de visualização em outras plataformas.
 
-## Contatos:
+## 🗣️ Contatos:
 
 <div align="center">
 <a href="https://www.instagram.com/karollineuchoa/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
